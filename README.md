@@ -12,11 +12,11 @@ Please check out the [Getting Started](https://github.com/quasar/Quasar/wiki/Get
 
 ## Screenshots
 
-![remote-shell](Images/remote-shell.png)
+![remote-desktop](https://github.com/user-attachments/assets/082f02d5-8348-462e-a3e2-fe499bf908fd)
 
-![remote-desktop](Images/remote-desktop.png)
+![remote-files](https://github.com/user-attachments/assets/a45725bd-1d5c-407e-8cac-f3f182129e75)
 
-![remote-files](Images/remote-files.png)
+![remote-shell](https://github.com/user-attachments/assets/1348ca12-e691-443d-86cd-1c2a688d9ec9)
 
 ## Features
 * TCP network stream (IPv4 & IPv6 support)
